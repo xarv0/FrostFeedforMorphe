@@ -1,10 +1,6 @@
 {
   "branches": [
-    "main",
-    {
-      "name": "dev",
-      "prerelease": true
-    }
+    "main"
   ],
   "plugins": [
     [
@@ -38,8 +34,7 @@
         "releaseJson": {
           "path": "patches-bundle.json",
           "downloadUrlTemplate": "https://github.com/${owner}/${repo}/releases/download/v${version}/patches-${version}.mpp",
-          "signatureUrlTemplate": "",
-          "publicKeyPath": "morphe-signing.pub"
+          "signatureUrlTemplate": ""
         }
       }
     ],
@@ -75,13 +70,6 @@
           }
         ],
         "successComment": false
-      }
-    ],
-    [
-      "@cleyrop-org/semantic-release-backmerge",
-      {
-        "backmergeBranches": [{"from": "main", "to": "dev"}],
-        "clearWorkspace": true
       }
     ]
   ]

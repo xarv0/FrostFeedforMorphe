@@ -14,13 +14,13 @@ group = "dev.jkcarino"
 
 patches {
     about {
-        name = "Adobo"
-        description = "Patches for Morphe to disable ads, trackers and analytics, " +
-            "remove Reddit ads everywhere, always open Gboard in incognito mode, and much more!"
-        source = "git@github.com:jkennethcarino/adobo.git"
-        author = "Ken"
-        contact = "6307355+jkennethcarino@users.noreply.github.com"
-        website = "https://github.com/jkennethcarino/adobo"
+        name = "FrostFeed for Morphe"
+        description = "Morphe patches for Reddit adding FrostFeed (native Archive profile view via Arctic Shift) " +
+            "on top of Adobo's ad, tracker, and telemetry removal patches."
+        source = "git@github.com:xarv0/FrostFeedforMorphe.git"
+        author = "xarv0"
+        contact = "https://github.com/xarv0/FrostFeedforMorphe/issues"
+        website = "https://github.com/xarv0/FrostFeedforMorphe"
         license = "GNU General Public License v3.0"
     }
 }
