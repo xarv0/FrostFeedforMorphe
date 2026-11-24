@@ -1,6 +1,6 @@
 # Patches
 
-> Generated from `patches-list.json` — **v2.0.1** (`main`) · **55 patches** across **4 apps** · back to [README](README.md)
+> Generated from `patches-list.json` — **v1.0.0** (`main`) · **56 patches** across **4 apps** · back to [README](README.md)
 
 ---
 
@@ -55,6 +55,7 @@
 
 | Patch | Details |
 |---|---|
+| **Archive profile view (FrostFeed)** | Adds a native Archive view to Reddit user profiles powered by the public Arctic Shift API. |
 | **Colorize comment indent lines** | Replaces the default gray comment indent lines with color-coded lines.<br><sub>Options: Show indent line at current depth only, Line color 1, Line color 2, +6 more</sub> |
 | **Disable bottom navigation bar auto-hide** | Prevents the bottom navigation bar from hiding when scrolling down. |
 | **Disable home feed auto-refresh** | Disables the automatic refresh of the home feed after viewing a post or after being away from the app. |

@@ -32,7 +32,15 @@ Tap here on Android with **Morphe Manager** installed to add this patch source a
 ## Patches
 
 <!-- PATCHES_START -->
-> Built on top of **Adobo** + **Archive profile view (FrostFeed)** — see [PATCHES.md](PATCHES.md) for the full list.
+> **[v1.0.0](https://github.com/xarv0/FrostFeedforMorphe/releases/tag/v1.0.0)**&nbsp;&nbsp;&middot;&nbsp;&nbsp;`main`&nbsp;&nbsp;&middot;&nbsp;&nbsp;**56 patches** across **4 apps**&nbsp;&nbsp;&middot;&nbsp;&nbsp;[Full details](PATCHES.md)
+
+| App | Package name | Supported versions | Patches |
+|---|---|---|---|
+| [**9GAG**](PATCHES.md#9gag) | [`com.ninegag.android.app`](https://play.google.com/store/apps/details?id=com.ninegag.android.app) | `8.30.04`, `8.29.08`, `8.26.1`, `8.25.1`, `8.24.8` | 3 |
+| [**Gboard**](PATCHES.md#gboard) | [`com.google.android.inputmethod.latin`](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) | `Any` | 10 |
+| [**IMDb**](PATCHES.md#imdb) | [`com.imdb.mobile`](https://play.google.com/store/apps/details?id=com.imdb.mobile) | `Any` | 1 |
+| [**Reddit**](PATCHES.md#reddit) | [`com.reddit.frontpage`](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | `2026.47.0`, `2026.46.0`, `2026.45.0`, `2026.44.0`, `2026.24.0` | 29 |
+| [**Universal**](PATCHES.md#universal) | - | `Any` | 13 |
 <!-- PATCHES_END -->
 
 ## Getting Started
